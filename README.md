@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
 
 - I'm just a beginner for everything, so I'm learning everything!
-- Languages: Python, C, C++, Javascript, HTML & CSS, etc
-- Topics: Energy AI, Data Science, AI and its Security, Computer Security, etc
-- Working project: Model Inversion Attack(MIA) on image classification model and its defense
+- Languages: Python, Go, C, C++, Javascript, HTML & CSS, etc
+- Interested Topics: Energy AI, Data Science, AI, Computer Security, etc
 
     <!-- - 👯 I’m looking to collaborate on ... -->
     <!-- 🤔 I’m looking for help with ... -->
