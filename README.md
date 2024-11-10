@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - I'm just a beginner for everything, so I'm learning everything!
 - Languages: Python, Go, C, C++, Javascript, HTML & CSS, etc
-- Interested Topics: Energy AI, Data Science, AI, Computer Security, etc
+- Interested Topics: Data Science, AI, Computer Security, etc
 
     <!-- - 👯 I’m looking to collaborate on ... -->
     <!-- 🤔 I’m looking for help with ... -->
