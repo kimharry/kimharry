@@ -10,15 +10,14 @@ Here are some ideas to get you started:
 
 - Designer of MAGICEA (Sep 2024 ~ Present)
 - Lab of Prof. Yoon (Jan 2024 ~ Jun 2024)
-- KENTECH Student Ambassador KENDLER (Aug 2023 ~ Present)
+- KENTECH Student Ambassador 켄들러 (Aug 2023 ~ Present)
 - Department of Energy Engineering, KENTECH(Korea Institute of Energy Technology) (Feb 2023 ~ Present)
 - Jeonbuk Science High School (Mar 2021 ~ Feb 2023)
 
 ### 🌱 I’m currently learning ...
 
-- I'm just a beginner for everything, so I'm learning everything!
 - Languages: Python, Go, C, C++, Javascript, HTML & CSS, etc
-- Interested Topics: Data Science, AI, Computer Security, etc
+- Interested Topics: Data Science, AI, Computer Security, AI Security, etc
 
     <!-- - 👯 I’m looking to collaborate on ... -->
     <!-- 🤔 I’m looking for help with ... -->
@@ -29,8 +28,8 @@ Here are some ideas to get you started:
 - Gmail: kimharry0610@gmail.com
 - School email: kimharry0610@kentech.ac.kr
 - Instagram: https://www.instagram.com/bolak_panther
-- KENDLER Youtube: https://www.youtube.com/@켄들러
-- KENDLER Instagram: https://www.instagram.com/kendler_official
+- 켄들러 Youtube: https://www.youtube.com/@켄들러
+- 켄들러 Instagram: https://www.instagram.com/kendler_official
 - MAGICEA: https://magicea.co.kr
 - MAGICEA Instagram: https://www.instagram.com/magicea_kr
   <!-- - 😄 Pronouns: ... -->
